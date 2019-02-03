@@ -1,6 +1,7 @@
 # test-hello
 test repo
 
+# git hub video - https://www.youtube.com/watch?v=SWYqp7iY_Tc
 # this file also tell about using git from command prompt
 
 echo "# test-hello" >> README.md
